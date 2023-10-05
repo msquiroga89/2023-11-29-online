@@ -1,18 +1,18 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
-venue: "FIXME"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Online"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"     
 country: "FIXME"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "spa"     
 latitude: "45"        # decimal latitude of training venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the training venue (use https://www.latlong.net)
-humandate: "Nov 11-Dec 8, 2023"
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "Nov 29-Dec 8, 2023"
+humantime: "4:00 - 8:00 pm (UTC)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2023-11-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-12-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Verónica Jiménez Jacinto", "Heladia Salgado", "Paula Pappalardo", "Macarena Quiroga"] 
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Pao Corrales"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["macarenasolquiroga@gmail.com"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -59,8 +59,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>
 <a href="{{ site.carpentries_site }}">The Carpentries</a> es una comunidad de práctica centrada en la enseñanza de fundamentos
    habilidades de código y ciencia de datos a investigadores de todo el mundo. Este evento de formación de instructores
-   está diseñado para preparar a los aprendices para certificarse y participar como Instructores de Carpentries. Sin embargo, gran parte de nuestro plan de estudios se centra en principios educativos que pueden aplicarse en una amplia variedad de contextos. También damos la bienvenida a los participantes que no planean
-   certificarse pero simplemente desea convertirse en mejores profesores.
+   está diseñado para preparar a quienes participan para certificarse y participar como Instructores de Carpentries. Sin embargo, gran parte de nuestro plan de estudios se centra en principios educativos que pueden aplicarse en una amplia variedad de contextos. También damos la bienvenida a los participantes que no planean
+   certificarse pero simplemente desea convertirse en mejores profesores/as.
 </p>
 
 <p>El Entrenamiento de Instructores de Carpentries tiene los siguientes objetivos:</p>
@@ -124,12 +124,12 @@ site.swc_site }}/conduct/">Código de Conducta</a> de Carpentries.
 {% elsif online == "true_public" %}
 <p id="venue">
   En línea en <a href="{{page.address}}">{{page.address}}</a>.
-   La capacitación se llevará a cabo utilizando la plataforma de videoconferencia Zoom. No es necesario iniciar sesión. Sin embargo, si no ha utilizado Zoom antes, haga clic en el enlace unos minutos antes, ya que puede solicitarle que instale la aplicación Zoom o la extensión del navegador. Debería haber recibido un enlace de conexión en el mismo correo electrónico que lo dirigió a este sitio web. Si encontró esta página por otro medio y no recibió el enlace de conexión, revise su carpeta de correo no deseado y envíe un correo electrónico a instructor.training@carpentries.org con sus capacitadores (detalles de contacto a continuación) en cc.
+   La capacitación se llevará a cabo utilizando la plataforma de videoconferencia Zoom. No es necesario iniciar sesión. Sin embargo, si no has utilizado Zoom antes, haz clic en el enlace unos minutos antes, ya que puede solicitarle que instales la aplicación Zoom o la extensión del navegador. Deberías haber recibido un enlace de conexión en el mismo correo electrónico que te dirigió a este sitio web. Si encontraste esta página por otro medio y no recibiste el enlace de conexión, revisa tu carpeta de correo no deseado y envía un correo electrónico a instructor.training@carpentries.org con el nombre de las trainers a cargo (detalles de contacto a continuación) en cc.
 </p>
 {% elsif online == "true_private" %}
 <p id="venue">
   Este entrenamiento se llevará a cabo en línea.
-  Los instructores le enviarán la información necesaria para conectarse a esta reunión.
+  Las trainers te enviarán la información necesaria para conectarse a esta reunión.
 </p>
 {% endif %}
 
@@ -155,11 +155,11 @@ please get in touch (using contact details below) and we will attempt to provide
 
 <h3>Cómo prepararse para la formación de instructores</h3>
 
-Antes de su capacitación, visite nuestra página Preparación para la capacitación de instructores para obtener instrucciones completas. Un breve resumen de estas instrucciones es el siguiente:
+Antes de tu capacitación, visita nuestra página Preparación para la capacitación de instructores para obtener instrucciones completas. Un breve resumen de estas instrucciones es el siguiente:
 <ol>
-   <li>Complete nuestra encuesta previa a la capacitación. Recibirás un enlace personalizado para tu evento cuando recibas tu información de conexión.</li>
-   <li>Seleccione una lección para usar en sesiones de práctica de enseñanza y prepare un segmento de 3 minutos, sin dedicar más de 20 a 30 minutos a prepararla.</li>
-   <li>Por favor lea lo siguiente:</li>
+   <li>Completa nuestra encuesta previa a la capacitación. Recibirás un enlace personalizado para tu evento cuando recibas la información para participar por Zoom.</li>
+   <li>Selecciona una lección para usar en sesiones de práctica de enseñanza y prepara un segmento de 3 minutos, sin dedicar más de 20 a 30 minutos a prepararla.</li>
+   <li>Por favor lee lo siguiente (en inglés):</li>
      <ul>
        <li><a href="https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf">La ciencia del aprendizaje</a></li>
        <li><a href="https://carpentries.org/files/reports/2021%20Carpentries%20Annual%20Report_Final.pdf">Informe anual de Carpentries</a></li>
@@ -167,7 +167,7 @@ Antes de su capacitación, visite nuestra página Preparación para la capacitac
 </ol>
 
 <h3> Checkout: El proceso de certificación de instructores</h3>
-Después del evento de capacitación, le pedimos que complete tres tareas de seguimiento para convertirse en un instructor certificado. Estos requisitos se detallan en nuestra
+Después del evento de capacitación, te pedimos que complete tres tareas de seguimiento para convertirse en un/a instructor/a certificado/a. Estos requisitos se detallan en nuestra web
    <a href="{{ site.training_site }}/checkout.html">Instrucciones de checkout</a> y se analizarán en nuestra capacitación.
 {% if online == "false" %}
 <h3>What to Bring to an In-Person Event</h3>
@@ -181,7 +181,7 @@ someone is saying.
 {% endif %}
 
 <h3>Asistencia y Cancelaciones</h3>
-Los alumnos que pierdan más de 1 hora de la capacitación podrán ser marcados como ausentes. La certificación de instructor no se puede completar sin la asistencia completa a un evento de capacitación de instructores. Si inesperadamente necesita perderse más de 1 hora de su evento, comuníquese con sus Entrenadores (información de contacto a continuación).
+Las personas que pierdan más de 1 hora de la capacitación podrán ser marcados como ausentes. La certificación de instructor no se puede completar sin la asistencia completa a un evento de capacitación de instructores. Si inesperadamente necesitas perderte más de 1 hora del evento, comunícate con tus trainers (información de contacto a continuación).
 
 Para eventos en los que la inscripción se realice a través de The Carpentries a través de Eventbrite, la cancelación se podrá realizar en Eventbrite hasta el inicio del evento. Los asientos cancelados no se pueden llenar después de la fecha límite de inscripción de 1 semana para estos eventos, por lo que le pedimos que cancele solo si es absolutamente necesario.
 
@@ -210,14 +210,14 @@ para más información.</p>
 <h2 id="preparation" name="preparation">Preparación</h2>
 
 <p>
-  Por favor, lea las siguientes instrucciones antes del comienzo del taller:
+  Por favor, lee las siguientes instrucciones antes del comienzo del taller:
 </p>
 <ol>
   <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
   <li><a href="https://carpentries.org/files/reports/2021%20Carpentries%20Annual%20Report_Final.pdf">The Carpentries 2021 Annual Report</a></li>
 </ol>
 <p>
-  Por favor, también lea detenidamente <em>un</em> episodio de las lecciones de Carpentries listadas debajo, para poder realizar algunos ejercicios basados en ellas durante el primer día del taller. Un episodio es una página de una lección.
+  Por favor, también lee detenidamente <em>un</em> episodio de las lecciones de Carpentries listadas debajo, para poder realizar algunos ejercicios basados en ellas durante el primer día del taller. Un episodio es una página de una lección.
 </p>
 
   <ul>
@@ -262,6 +262,8 @@ para más información.</p>
       <tr> <td>16:50</td> <td>Final del día 2</td> </tr>
     </table>
   </div>
+</div>
+<div class="row">
   <div class="col-md-6">
     <h3>Día 3</h3>
     <table class="table table-striped">
@@ -320,10 +322,10 @@ para más información.</p>
 <h2 id="pre_workshop_survey">Encuestas</h2>
 
 <p>
-  Antes del taller, por favor llene nuestra <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">encuesta pre-entrenamiento</a>.
+  Antes del taller, por favor completa nuestra <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">encuesta pre-entrenamiento</a>.
 </p>
 
 
 <p>
-  Luego del taller, por favor llene nuestra <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">encuesta post-taller</a>.
+  Luego del taller, por favor completa nuestra <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">encuesta post-taller</a>.
 </p>
