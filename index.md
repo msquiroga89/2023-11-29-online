@@ -15,7 +15,7 @@ instructor: ["Verónica Jiménez Jacinto", "Heladia Salgado", "Paula Pappalardo"
 helper: ["Verónica Jiménez Jacinto", "Heladia Salgado", "Paula Pappalardo", "Macarena Quiroga"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["macarenasolquiroga@gmail.com"]
 etherpad:  https://pad.carpentries.org/2023-11-29-ttt-es-online           # optional: URL for the workshop Etherpad if there is one
-eventbrite: "UNAM23"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
@@ -81,7 +81,7 @@ eventbrite: "UNAM23"          # optional: alphanumeric key for Eventbrite regist
 
 <p>
 Los eventos de formación de instructores son prácticos en todo momento: lecciones breves se alternan con ejercicios prácticos individuales y en grupo, incluidas sesiones de enseñanza práctica.
-Este evento de formación de instructores es el primer paso hacia la certificación como Instructor de Carpentries. Para obtener más detalles sobre los otros 3 pasos, consulte la página <a href="{{ site.training_site }}/checkout.html">Instrucciones de Checkout</a>.
+Este evento de formación de instructores es el primer paso hacia la certificación como Instructor de Carpentries. Para obtener más detalles sobre los otros 3 pasos, consulte la página <a href="{{ site.training_site }}/checkout.html">Instrucciones para la certificación</a>.
 Para obtener más información, consulte nuestro <a href="{{ site.training_site }}">Plan de estudios de formación de instructores</a>.
 </p>
 
