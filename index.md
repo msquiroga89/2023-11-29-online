@@ -81,7 +81,7 @@ eventbrite:          # optional: alphanumeric key for Eventbrite registration, e
 
 <p>
 Los eventos de formación de instructores son prácticos en todo momento: lecciones breves se alternan con ejercicios prácticos individuales y en grupo, incluidas sesiones de enseñanza práctica.
-Este evento de formación de instructores es el primer paso hacia la certificación como Instructor de Carpentries. Para obtener más detalles sobre los otros 3 pasos, consulte la página <a href="{{ site.training_site }}/checkout.html">Instrucciones para la certificación</a>.
+Este evento de formación de instructores es el primer paso hacia la certificación como Instructor de Carpentries. Para obtener más detalles sobre los otros 3 pasos, consulte la página <a href="{{ site.training_site }}/checkout.html">Instrucciones para la certificación (checkout)</a>.
 Para obtener más información, consulte nuestro <a href="{{ site.training_site }}">Plan de estudios de formación de instructores</a>.
 </p>
 
@@ -89,6 +89,8 @@ Para obtener más información, consulte nuestro <a href="{{ site.training_site 
 
 Todos los participantes deben atenerse al <a href="{{
 site.swc_site }}/conduct/">Código de Conducta</a> de Carpentries.
+
+<a href="https://docs.google.com/document/d/1GhlytdlWWlW85YpzYtBn9SXhqRgjyB7LDXbfpYedOS4/edit?usp=sharing">Codigo de conducta en español <a>
 
 
 
@@ -168,7 +170,7 @@ Antes de su capacitación, visite nuestra página Preparación para la capacitac
 
 <h3> Checkout: El proceso de certificación de instructores</h3>
 Después del evento de capacitación, le pedimos que complete tres tareas de seguimiento para convertirse en un instructor certificado. Estos requisitos se detallan en nuestra
-   <a href="{{ site.training_site }}/checkout.html">Instrucciones de checkout</a> y se analizarán en nuestra capacitación.
+   <a href="{{ site.training_site }}/checkout.html">Instrucciones de proceso de certificación de instructores (checkout)</a> y se analizarán en nuestra capacitación.
 {% if online == "false" %}
 <h3>What to Bring to an In-Person Event</h3>
 
@@ -213,7 +215,7 @@ para más información.</p>
   Por favor, lea las siguientes instrucciones antes del comienzo del taller:
 </p>
 <ol>
-  <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
+  <li><a href="https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf">La ciencia del aprendizaje</a></li>
   <li><a href="https://carpentries.org/files/reports/2021%20Carpentries%20Annual%20Report_Final.pdf">The Carpentries 2021 Annual Report</a></li>
 </ol>
 <p>
@@ -235,6 +237,7 @@ para más información.</p>
   Por favor, lea el <a href="{{ site.training_site }}/instructor/index.html#schedule">Curriculum del Entrenamiento de Instructores</a> para los materiales del curso y para una agenda del evento de 4 días.
 </p>
 
+<p>Los siguientes horarios estan definios en el horario de CDMX (UTC-6) </p>
 
 <hr/>
 
@@ -242,49 +245,49 @@ para más información.</p>
   <div class="col-md-6">
     <h3>Día 1</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Bienvenida </td> </tr>
-      <tr> <td>09:30</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>10:30</td> <td>Break </td> </tr>
-      <tr> <td>10:45</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:30</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:15</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:35</td> <td>Final del día 1 </td> </tr>
+      <tr> <td>10:00</td> <td>Bienvenida </td> </tr>
+      <tr> <td>10:30</td> <td>Desarrollar habilidades con la práctica </td> </tr>
+      <tr> <td>11:45</td> <td>Receso </td> </tr>
+      <tr> <td>12:00</td> <td>Experiencia e instruccion </td> </tr>
+      <tr> <td>12:45</td> <td>Memoria y Carga Cognitiva </td> </tr>
+      <tr> <td>13:30</td> <td>Desarrollando nuestras habilidades con la retroalientación de los alumnos </td> </tr>
+      <tr> <td>14:00</td> <td>Final del día 1 </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Día 2</h3>
     <table class="table table-striped">
-      <tr> <td>13:35</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:35</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td>15:15</td> <td>Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:30</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>16:50</td> <td>Final del día 2</td> </tr>
+      <tr> <td>10:00</td> <td>Motivación y Desmotivación </td> </tr>
+      <tr> <td>11:00</td> <td>Mentalidad </td> </tr>
+      <tr> <td>11:45</td> <td>Receso </td> </tr>
+      <tr> <td>12:00</td> <td>Enseñar es una habilidad </td> </tr>
+      <tr> <td>13:00</td> <td>Conclusión y tarea para la siguiente sesión </td> </tr>
+      <tr> <td>14:00</td> <td>Final del día 2</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Día 3</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Getting Started on Instructor Certification </td> </tr>
-      <tr> <td>09:40</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>10:25</td> <td>Break </td> </tr>
-      <tr> <td>10:40</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>11:45</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>12:30</td> <td>Final del día 3 </td> </tr>
+      <tr> <td>10:00</td> <td>Bienvenidos de nuevo </td> </tr>
+      <tr> <td>10:10</td> <td>Primeros pasos con la certificación de instructores </td> </tr>
+      <tr> <td>10:40</td> <td>The Carpentries: Como operamos </td> </tr>
+      <tr> <td>11:25</td> <td>Receso </td> </tr>
+      <tr> <td>11:40</td> <td>El codigo vivo (o demostraciones en vivo) es una habilidad </td> </tr>
+      <tr> <td>12:45</td> <td>Preparandose para enseñar </td> </tr>
+      <tr> <td>14:00</td> <td>Final del día 3 </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Día 4</h3>
     <table class="table table-striped">
-      <tr> <td>13:30</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>14:15</td> <td>Working with Your Team</td> </tr>
-      <tr> <td>15:25</td> <td>Break </td> </tr>
-      <tr> <td>15:40</td> <td>Launches and Landings </td> </tr>
-      <tr> <td>16:20</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:40</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:50</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>17:05</td> <td>Final </td> </tr>
+      <tr> <td>10:00</td> <td>Mas prácticas de demostraciones en vivo </td> </tr>
+      <tr> <td>10:45</td> <td>Gestionando un aula diversa</td> </tr>
+      <tr> <td>11:45</td> <td>Receso </td> </tr>
+      <tr> <td>12:00</td> <td>Presentaciones del Taller </td> </tr>
+      <tr> <td>12:50</td> <td>Poniendo todo junto</td> </tr>
+      <tr> <td>13:10</td> <td>Wraping Up </td> </tr>
+      <tr> <td>13:20</td> <td>Cuestionario Post-Entrenamiento </td> </tr>
+      <tr> <td>14:00</td> <td>Final del dia</td> </tr>
     </table>
   </div>
 </div>
