@@ -271,9 +271,9 @@ para más información.</p>
       <tr> <td>10:00</td> <td>Bienvenidos de nuevo </td> </tr>
       <tr> <td>10:10</td> <td>Primeros pasos con la certificación de instructores </td> </tr>
       <tr> <td>10:40</td> <td>The Carpentries: Como operamos </td> </tr>
-      <tr> <td>11:25</td> <td>Receso </td> </tr>
-      <tr> <td>11:40</td> <td>El codigo vivo (o demostraciones en vivo) es una habilidad </td> </tr>
-      <tr> <td>12:45</td> <td>Preparandose para enseñar </td> </tr>
+      <tr> <td>11:45</td> <td>Receso </td> </tr>
+      <tr> <td>12:00</td> <td>El codigo vivo (o demostraciones en vivo) es una habilidad </td> </tr>
+      <tr> <td>13:00</td> <td>Preparandose para enseñar </td> </tr>
       <tr> <td>14:00</td> <td>Final del día 3 </td> </tr>
     </table>
   </div>
