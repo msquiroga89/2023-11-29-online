@@ -50,7 +50,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="general">Información General</h2>
 
 <!--
-  INTRODUCCION
+  INTRODUCTION
 
   Edit the general explanatory paragraph below if you want to change
   the pitch.
