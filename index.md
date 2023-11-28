@@ -1,9 +1,9 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
-venue: "FIXME"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "UNAM 23"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"     
-country: "FIXME"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
+country: "MX"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "spa"     
 latitude: "45"        # decimal latitude of training venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the training venue (use https://www.latlong.net)
@@ -243,7 +243,7 @@ para más información.</p>
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Día 1</h3>
+    <h3><a href="https://drive.google.com/file/d/1hzailfWpcT--XJK0-FD5sjmBVIxVtF-c/view?usp=drive_link">Día 1</a></h3>
     <table class="table table-striped">
       <tr> <td>10:00</td> <td>Bienvenida </td> </tr>
       <tr> <td>10:30</td> <td>Desarrollar habilidades con la práctica </td> </tr>
@@ -255,7 +255,7 @@ para más información.</p>
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Día 2</h3>
+    <h3><a href="https://drive.google.com/file/d/1wez6vFn9bzThxaSgThXkquQGxPWtSloA/view?usp=drive_link">Día 2</a></h3>
     <table class="table table-striped">
       <tr> <td>10:00</td> <td>Motivación y Desmotivación </td> </tr>
       <tr> <td>11:00</td> <td>Mentalidad </td> </tr>
@@ -270,9 +270,9 @@ para más información.</p>
     <table class="table table-striped">
       <tr> <td>10:00</td> <td>Bienvenidos de nuevo </td> </tr>
       <tr> <td>10:10</td> <td>Primeros pasos con la certificación de instructores </td> </tr>
-      <tr> <td>10:40</td> <td>The Carpentries: Como operamos </td> </tr>
+      <tr> <td>10:40</td> <td><a href="https://drive.google.com/file/d/1YStFWgYvsdFXPA-bhqP1GQUM366ZrmOy/view?usp=drive_link">The Carpentries: Como operamos </a> </td> </tr>
       <tr> <td>11:45</td> <td>Receso </td> </tr>
-      <tr> <td>12:00</td> <td>El codigo vivo (o demostraciones en vivo) es una habilidad </td> </tr>
+      <tr> <td>12:00</td> <td><a href="https://docs.google.com/presentation/d/1vEIeYbqKQPBTmCDGrfJNKB2o3wskVmyukIWoYhNTfvA/edit?usp=sharing">El codigo vivo (o demostraciones en vivo) es una habilidad </a></td> </tr>
       <tr> <td>13:00</td> <td>Preparandose para enseñar </td> </tr>
       <tr> <td>14:00</td> <td>Final del día 3 </td> </tr>
     </table>
