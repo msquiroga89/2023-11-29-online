@@ -270,9 +270,9 @@ para más información.</p>
     <table class="table table-striped">
       <tr> <td>10:00</td> <td>Bienvenidos de nuevo </td> </tr>
       <tr> <td>10:10</td> <td>Primeros pasos con la certificación de instructores </td> </tr>
-      <tr> <td>10:40</td> <td><a href="https://drive.google.com/file/d/1YStFWgYvsdFXPA-bhqP1GQUM366ZrmOy/view?usp=drive_link">The Carpentries: Como operamos </a> </td> </tr>
+      <tr> <td>10:40</td> <td><a href="https://drive.google.com/file/d/1g9Qv48Oiu4j00Su5A7KZXRms6foMPJ1F/view?usp=share_link">The Carpentries: Como operamos </a> </td> </tr>
       <tr> <td>11:45</td> <td>Receso </td> </tr>
-      <tr> <td>12:00</td> <td><a href="https://docs.google.com/presentation/d/1vEIeYbqKQPBTmCDGrfJNKB2o3wskVmyukIWoYhNTfvA/edit?usp=sharing">El codigo vivo (o demostraciones en vivo) es una habilidad </a></td> </tr>
+      <tr> <td>12:00</td> <td><a href="https://docs.google.com/presentation/d/1vEIeYbqKQPBTmCDGrfJNKB2o3wskVmyukIWoYhNTfvA/edit?usp=share_link">El codigo vivo (o demostraciones en vivo) es una habilidad </a></td> </tr>
       <tr> <td>13:00</td> <td>Preparandose para enseñar </td> </tr>
       <tr> <td>14:00</td> <td>Final del día 3 </td> </tr>
     </table>
